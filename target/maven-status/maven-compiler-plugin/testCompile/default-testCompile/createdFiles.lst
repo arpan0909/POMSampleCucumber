@@ -1,0 +1,5 @@
+base\TestBase.class
+pages\SearchResultPage.class
+runners\ShoppingDemoRunner.class
+stepDefs\OrderStepDef.class
+pages\HomePage.class
